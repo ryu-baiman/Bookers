@@ -1,0 +1,32 @@
+body {
+    background-color: #fff;
+    color: #333;
+    font-family: verdana, arial, helvetica, sans-serif;
+    font-size: 13px;
+    line-height: 18px;
+    margin: 33px;
+}
+
+h1 {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+p {
+    font-family: verdana, arial, helvetica, sans-serif;
+    font-size: 13px;
+    line-height: 18px;
+    margin: 33px;
+    display: block;
+}
+
+strong {
+    font-weight: bold;
+}
+
+a {
+    cursor: pointer;
+    text-decoration: underline;
+    color: #000;
+}
